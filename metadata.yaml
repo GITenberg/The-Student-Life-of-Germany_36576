@@ -1,0 +1,27 @@
+_repo: The-Student-Life-of-Germany_36576
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Howitt, William
+    birthdate: 1792
+    deathdate: 1879
+    gutenberg_agent_id: '38358'
+    url: http://www.gutenberg.org/2009/agents/38358
+description: ''
+gutenberg_issued: '2011-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36576'
+  lccn: '07007645'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Students -- Germany'
+- !lcc 'LA'
+title: The Student-Life of Germany
+url: http://www.gutenberg.org/ebooks/36576
